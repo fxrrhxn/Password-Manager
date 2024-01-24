@@ -9,7 +9,7 @@
 
 A secure and user-friendly Password Manager and Generator built using Tkinter in Python. This application allows users to generate strong passwords and securely store them. It features a clean and intuitive interface for ease of use.
 
-![App Preview](Previews/app_preview.png)
+![App Preview](previews/app_preview.png)
 
 ## Table of Contents 📋
 
@@ -37,25 +37,25 @@ A secure and user-friendly Password Manager and Generator built using Tkinter in
 
 ### Home Screen
 
-![Home Screen](Previews/app_preview.png)
+![Home Screen](previews/app_preview.png)
 
 ### Password Generation
 
-![Password Generation](Previews/generating_passwords.png)
+![Password Generation](previews/generating_passwords.png)
 
 ### Password Saving
 
-![Password Saving](Previews/saving_passwords.png)
+![Password Saving](previews/saving_passwords.png)
 
 ### View Passwords
 
-![View Passwords](Previews/viewing_saved_passwords.png)
+![View Passwords](previews/viewing_saved_passwords.png)
 
 ### Dialog Boxes
 
-![No Details Dialog](Previews/no_details_dialog.png)
-![No Password Dialog](Previews/no_password_dialog.png)
-![No Username Dialog](Previews/no_username_dialog.png)
+![No Details Dialog](previews/no_details_dialog.png)
+![No Password Dialog](previews/no_password_dialog.png)
+![No Username Dialog](previews/no_username_dialog.png)
 
 ## How to Run ▶️
 
@@ -84,5 +84,3 @@ This project is licensed under the [MIT License](LICENSE).
 - Icons and Images were downloaded from Flaticon.
 
 ---
-
-**Note: Customize the shields, update the placeholders, and add or modify sections based on your project specifics.**
