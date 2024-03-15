@@ -55,4 +55,5 @@ python3 app.py
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE.md) file for details.
+For contribution details under the MIT License - see the [CONTRIBUTING](CONTRIBUTING.md) file.
