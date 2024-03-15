@@ -1,86 +1,57 @@
-# Password Manager & Generator
+# Password Manager GUI
 
-![GitHub repo size](https://img.shields.io/github/repo-size/fxrrhxn/Password-Manager)
-![GitHub issues](https://img.shields.io/github/issues/fxrrhxn/Password-Manager)
-![GitHub stars](https://img.shields.io/github/stars/fxrrhxn/Password-Manager)
-![GitHub forks](https://img.shields.io/github/forks/fxrrhxn/Password-Manager)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) ![Python](https://img.shields.io/badge/python-v3.9-blue) ![Tkinter](https://img.shields.io/badge/tkinter-v8.6-green) ![GitHub forks](https://img.shields.io/github/forks/fxrrhxn/Password-Manager?style=social) ![GitHub stars](https://img.shields.io/github/stars/fxrrhxn/Password-Manager?style=social) ![GitHub issues](https://img.shields.io/github/issues/fxrrhxn/Password-Manager)
 
-## Overview 🚀
+## Description
 
-A secure and user-friendly Password Manager and Generator built using Tkinter in Python. This application allows users to generate strong passwords and securely store them. It features a clean and intuitive interface for ease of use.
+This application is a GUI Password Manager built using Tkinter in Python 3. It allows users to securely store and manage their passwords. More functionality will be added in the future. The project is open to collaboration.
 
-![App Preview](screenshots/app_preview.png)
+## Features
 
-## Table of Contents 📋
+- **Login**: Users are required to enter an access key to log in, which is changeable through the program itself.
+- **Add Password**: Users can add passwords for different websites or applications.
+- **View Passwords**: Users can view the passwords they have saved.
+- **Generate Strong Passwords**: Option to generate strong passwords.
+- **Save Passwords Securely**: Passwords are stored locally on the user's machine so it's less likely to be stolen by anyone.
+- **Responsive Design**: The GUI is designed to be fast, responsive and user-friendly.
 
-- [Features](#features)
-- [Screenshots](#screenshots)
-- [How to Run](#how-to-run)
-- [Contributing](#contributing)
-- [License](#license)
-- [Acknowledgements](#acknowledgements)
+### Installation & Cloning
 
-## Features ✨
+1. Clone the repository.
 
-1. **Password Generation:**
+git clone https://github.com/fxrrhxn/Password-Manager.git
 
-   - Generate strong passwords with a mix of letters, symbols, and numbers.
+2. Install the required dependencies.
 
-2. **Password Saving:**
+pip install ttkbootstrap
 
-   - Save generated passwords securely in a text file.
+3. Run the application.
 
-3. **View Passwords:**
-   - View and manage saved passwords.
+python3 app.py
 
-## Screenshots 📸
+## Usage
 
-### Home Screen
+1. Launch the application.
+2. Enter your access key to log in.
+3. Choose an action from the available options: Add Password, View Passwords, or Quit.
+4. To add a password, click on "Add Password" and follow the instructions.
+5. To view saved passwords, click on "View Passwords".
+6. To exit the application, click on "Quit".
 
-![Home Screen](screenshots/app_preview.png)
+## Screenshots
 
-### Password Generation
+![Login Screen](screenshots/login_screen.png)
+![Landing Page](screenshots/landing_page.png)
+![Add Password Screen](screenshots/add_password.png)
+![View Passwords Screen](screenshots/view_passwords.png)
 
-![Password Generation](screenshots/generating_passwords.png)
+## Credits
 
-### Password Saving
+- [Tkinter](https://docs.python.org/3/library/tkinter.html) - GUI library for Python.
+- [ttkbootstrap](https://github.com/TkinterTtk/ttkbootstrap) - Bootstrap-themed widgets for Tkinter.
+- Password generation algorithm `pass_generator.py` was created by me.
+- This program was created using `Python3`
 
-![Password Saving](screenshots/saving_passwords.png)
+## License
 
-### View Passwords
-
-![View Passwords](screenshots/viewing_saved_passwords.png)
-
-### Dialog Boxes
-
-![No Details Dialog](screenshots/no_details_dialog.png)
-![No Password Dialog](screenshots/no_password_dialog.png)
-![No Username Dialog](screenshots/no_username_dialog.png)
-
-## How to Run ▶️
-
-1. **Clone the repository:**
-
-   ```bash
-   git clone https://github.com/your-username/your-repo-name.git
-   ```
-
-2. **Run the application:**
-
-   ```bash
-   python main.py
-   ```
-
-## Contributing 🤝
-
-Contributions are welcome! Please follow the [Contributing Guidelines](CONTRIBUTING.md).
-
-## License 📄
-
-This project is licensed under the [MIT License](LICENSE).
-
-## Acknowledgements 🙏
-
-- Icons and Images were downloaded from Flaticon.
-
----
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
