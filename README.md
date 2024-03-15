@@ -1,6 +1,6 @@
 # Password Manager GUI
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) ![Python](https://img.shields.io/badge/python-v3.9-blue) ![Tkinter](https://img.shields.io/badge/tkinter-v8.6-green)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/fxrrhxn/Password-Manager/blob/main/LICENSE) ![Python](https://img.shields.io/badge/python-v3.9-blue) ![Tkinter](https://img.shields.io/badge/tkinter-v8.6-green)
 ![GitHub forks](https://img.shields.io/github/forks/fxrrhxn/Password-Manager?style=social) ![GitHub stars](https://img.shields.io/github/stars/fxrrhxn/Password-Manager?style=social) ![GitHub issues](https://img.shields.io/github/issues/fxrrhxn/Password-Manager)
 
 ## Description
